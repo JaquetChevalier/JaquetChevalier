@@ -4,7 +4,12 @@ Hello Everyone 👋, My name is Marcelo.<br><br>Are you might asked why my GitHu
 <br>- And the work duties that I have is Install, Configure, and provide Support for Storage Systems.
 <br>- Also Install and Configure Servers.
 <br>- Finally document installation, maintenance and record incidents procedures.<br><br>
-At present, I am focused to developed and upgrading my skills with courses so learning best practices.<br><br>The answer to the main question is privacy, security, and confidentiality.
+At present, I am focused to developed and upgrading my skills with courses so learning best practices.<br><br>
+The main courses I am currently taking are:
+- Certificate in Cybersecurity.
+- One Block Storage Systems Courses
+- Red Hat Certified Courses.<br><br>
+The answer to the main question is privacy, security, and confidentiality.
 
 
 # 💻 Tech Stack:
@@ -38,7 +43,7 @@ At present, I am focused to developed and upgrading my skills with courses so le
 
 # Continuous Professional Development Learning
 
-Version 2.0
+Version 3.0
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
